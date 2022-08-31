@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "cabana_nombre": "Caraguatá 500",
+    "precio": 50000,
+    "descripcion": "Casa de 3 ambientes con terraza, lote de 10x50mts. Muelle Aurorita.",
+    "foto": "img/casa1.jpeg",
+    "tipo": "3 ambientes"
+  },
+  {
+    "id": 2,
+    "cabana_nombre": "Esperita y San Roque",
+    "precio": 230000,
+    "descripcion": "Casa de 5 ambientes, cocina completa. Se vende amueblada.",
+    "foto": "img/casa2.jpeg",
+    "tipo": "5 ambientes"
+  },
+  {
+    "id": 3,
+    "cabana_nombre": "Arroyo Toro",
+    "precio": 90000,
+    "descripcion": "Casa de 3 ambientes, hecha en material. Cuenta con conexión a internet. Se accede por lancha interisleña",
+    "foto": "img/casa3.jpeg",
+    "tipo": "3 ambientes"
+  },
+  {
+    "id": 4,
+    "cabana_nombre": "Muelle el Picaflor",
+    "precio": 105000,
+    "descripcion": "Cabaña de 4 ambientes, estilo isleño. Cuenta con terreno arbolado de 3 hectáreas.",
+    "foto": "img/casa4.jpeg",
+    "tipo": "4 ambientes"
+  },
+  {
+    "id": 5,
+    "cabana_nombre": "Arr. Rama Negra",
+    "precio": 120000,
+    "descripcion": "Cabaña de dos plantas. Con 3 habitaciones. Terreno de 2 hectarias y muelle propio",
+    "foto": "img/casa5.jpeg",
+    "tipo": "4 ambientes"
+  },
+  {
+    "id": 6,
+    "cabana_nombre": "Arroyo Gambado 300",
+    "precio": 95000,
+    "descripcion": "Simpática casa de 4 ambientes, cuenta con servicio de agua y gas por garrafa. Pasa lancha almacenera por la puerta",
+    "foto": "img/casa6.jpeg",
+    "tipo": "4 ambientes"
+  },
+  {
+    "id": 7,
+    "cabana_nombre": "Cabaña el Carpincho",
+    "precio": 140000,
+    "descripcion": "Cabaña de 3 ambientes con dos habitaciones, equipadas con cama doble y cama cucheta respectivamente. Se vende con muebles. Muelle propio",
+    "foto": "img/casa7.jpeg",
+    "tipo": "3 ambientes"
+  },
+  {
+    "id": 8,
+    "cabana_nombre": "Muelle el Zorzal",
+    "precio": 180000,
+    "descripcion": "Cabaña de 5 ambientes con dos habitaciones, terreno de 5 hectáreas. Bajada de arena y muelle propio",
+    "foto": "img/casa8.jpeg",
+    "tipo": "5 ambientes"
+  },
+  {
+    "id": 9,
+    "cabana_nombre": "Arroyo Fulminante 500",
+    "precio": 135000,
+    "descripcion": "Cabaña de 3 ambientes con dos habitaciones, en terreno con 10 mts de frente sobre el río y 50 de fondo. Añosos árboles frutales.",
+    "foto": "img/casa9.jpeg",
+    "tipo": "3 ambientes"
+  },
+  {
+    "id": 10,
+    "cabana_nombre": "Muelle La Nutria",
+    "precio": 190000,
+    "descripcion": "Casa con pileta, única. Excelente inversión para casa de verano, terreno de 10x30mts sobre arroyo Esperita.",
+    "foto": "img/casa10.jpeg",
+    "tipo": "3 ambientes"
+  }
+]
